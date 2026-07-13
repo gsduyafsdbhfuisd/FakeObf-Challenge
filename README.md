@@ -10,6 +10,7 @@ you need recreate the encryption algorithm and rebuild the transformers as accur
 after that send the results to @MeowCode1 on Telegram
 
 leaderboard = {
+
     None:None,
 
     None:None,
