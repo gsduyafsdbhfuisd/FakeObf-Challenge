@@ -1,7 +1,7 @@
 # FakeObf-Challenge
 python obfuscation challenge
 
-AST transformer divided into 2 classes whose logic is hidden in custom bytcode that is executed in a custom VM
+AST transformer divided into 2 classes whose logic is hidden in custom bytecode that is executed in a custom VM
 
 no flag, no secrets
 
